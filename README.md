@@ -4,13 +4,14 @@ A Python implementation of the Pruned Peeling and VH decoders for HGP codes.
 Arxiv submission available at: http://arxiv.org/abs/2208.01002
 
 Please cite this work as:
-@Article{connolly:2022,
-  author      = {Nicholas Connolly AND Vivien Londe AND Anthony Leverrier AND Nicolas Delfosse},
-  title       = {Fast erasure decoder for a class of quantum LDPC codes},
-  version     = {1},
-  date        = {2022-08-01},
-  eprinttype  = {arxiv},
-  eprintclass = {quant-ph, cs.IT, math.IT},
-  eprint      = {http://arxiv.org/abs/2208.01002v1},
-  url         = {http://arxiv.org/abs/2208.01002v1}
-}
+
+@Article{connolly:2022,  
+  &emsp; author      = {Nicholas Connolly AND Vivien Londe AND Anthony Leverrier AND Nicolas Delfosse},  
+  &emsp; title       = {Fast erasure decoder for a class of quantum LDPC codes},  
+  &emsp; version     = {1},  
+  &emsp; date        = {2022-08-01},  
+  &emsp; eprinttype  = {arxiv},  
+  &emsp; eprintclass = {quant-ph, cs.IT, math.IT},  
+  &emsp; eprint      = {http://arxiv.org/abs/2208.01002v1},  
+  &emsp; url         = {http://arxiv.org/abs/2208.01002v1}  
+}  
